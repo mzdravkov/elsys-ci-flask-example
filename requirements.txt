@@ -4,4 +4,5 @@ Werkzeug
 flask-socketio
 eventlet
 pytest
+codecov
 pytest-cov
